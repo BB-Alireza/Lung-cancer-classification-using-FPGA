@@ -1,5 +1,9 @@
 # Lung-cancer-classification-using-FPGA
 
+## By: [Alireza Ansari](https://www.linkedin.com/in/alireza-ansaree/)
+
+## Supervisor: [Dr. Hossein Hosseini-Nejad](https://scholar.google.com/citations?hl=en&user=GFegdC8AAAAJ&view_op=list_works&sortby=pubdate)
+
 # Logistic Regression Model Implementation and FPGA Acceleration
 
 This project entails the development of a logistic regression model, initially through software implementation and subsequently via FPGA hardware acceleration, followed by a performance comparison in terms of time and accuracy. The software phase involves MATLAB, while FPGA implementation employs the ISE software for hardware design. Various components are defined within the ISE environment to structure the hardware model. The model's evaluation employs a specific dataset, which will be detailed further.
